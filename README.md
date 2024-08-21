@@ -46,7 +46,7 @@ To run this application locally, you'll need to have Node.js and PostgreSQL inst
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/seryu-cargo-backend.git
+git clone  https://github.com/ariffebriyanto/seryu.git
 cd seryu-cargo-backend
 
 Install dependencies
